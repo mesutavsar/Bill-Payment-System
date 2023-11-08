@@ -1,0 +1,42 @@
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\8. Hafta 30.09.2023 Oop\Object_Oriented_Programing_Odev_9.Hafta\bin\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.exe
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\8. Hafta 30.09.2023 Oop\Object_Oriented_Programing_Odev_9.Hafta\bin\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.deps.json
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\8. Hafta 30.09.2023 Oop\Object_Oriented_Programing_Odev_9.Hafta\bin\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.runtimeconfig.json
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\8. Hafta 30.09.2023 Oop\Object_Oriented_Programing_Odev_9.Hafta\bin\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.dll
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\8. Hafta 30.09.2023 Oop\Object_Oriented_Programing_Odev_9.Hafta\bin\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.pdb
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\8. Hafta 30.09.2023 Oop\Object_Oriented_Programing_Odev_9.Hafta\obj\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\8. Hafta 30.09.2023 Oop\Object_Oriented_Programing_Odev_9.Hafta\obj\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.AssemblyInfoInputs.cache
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\8. Hafta 30.09.2023 Oop\Object_Oriented_Programing_Odev_9.Hafta\obj\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.AssemblyInfo.cs
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\8. Hafta 30.09.2023 Oop\Object_Oriented_Programing_Odev_9.Hafta\obj\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.csproj.CoreCompileInputs.cache
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\8. Hafta 30.09.2023 Oop\Object_Oriented_Programing_Odev_9.Hafta\obj\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.dll
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\8. Hafta 30.09.2023 Oop\Object_Oriented_Programing_Odev_9.Hafta\obj\Debug\net6.0\refint\Object_Oriented_Programing_Odev_9.Hafta.dll
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\8. Hafta 30.09.2023 Oop\Object_Oriented_Programing_Odev_9.Hafta\obj\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.pdb
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\8. Hafta 30.09.2023 Oop\Object_Oriented_Programing_Odev_9.Hafta\obj\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.genruntimeconfig.cache
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\8. Hafta 30.09.2023 Oop\Object_Oriented_Programing_Odev_9.Hafta\obj\Debug\net6.0\ref\Object_Oriented_Programing_Odev_9.Hafta.dll
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Object_Oriented_Programing_Odev_9.Hafta\bin\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.exe
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Object_Oriented_Programing_Odev_9.Hafta\bin\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.deps.json
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Object_Oriented_Programing_Odev_9.Hafta\bin\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.runtimeconfig.json
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Object_Oriented_Programing_Odev_9.Hafta\bin\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.dll
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Object_Oriented_Programing_Odev_9.Hafta\bin\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.pdb
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Object_Oriented_Programing_Odev_9.Hafta\obj\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Object_Oriented_Programing_Odev_9.Hafta\obj\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.AssemblyInfoInputs.cache
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Object_Oriented_Programing_Odev_9.Hafta\obj\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.AssemblyInfo.cs
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Object_Oriented_Programing_Odev_9.Hafta\obj\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.csproj.CoreCompileInputs.cache
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Object_Oriented_Programing_Odev_9.Hafta\obj\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.dll
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Object_Oriented_Programing_Odev_9.Hafta\obj\Debug\net6.0\refint\Object_Oriented_Programing_Odev_9.Hafta.dll
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Object_Oriented_Programing_Odev_9.Hafta\obj\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.pdb
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Object_Oriented_Programing_Odev_9.Hafta\obj\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.genruntimeconfig.cache
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Object_Oriented_Programing_Odev_9.Hafta\obj\Debug\net6.0\ref\Object_Oriented_Programing_Odev_9.Hafta.dll
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Oop_Odev_9.Hafta\bin\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.exe
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Oop_Odev_9.Hafta\bin\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.deps.json
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Oop_Odev_9.Hafta\bin\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.runtimeconfig.json
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Oop_Odev_9.Hafta\bin\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.dll
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Oop_Odev_9.Hafta\bin\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.pdb
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Oop_Odev_9.Hafta\obj\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Oop_Odev_9.Hafta\obj\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.AssemblyInfoInputs.cache
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Oop_Odev_9.Hafta\obj\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.AssemblyInfo.cs
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Oop_Odev_9.Hafta\obj\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.csproj.CoreCompileInputs.cache
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Oop_Odev_9.Hafta\obj\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.dll
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Oop_Odev_9.Hafta\obj\Debug\net6.0\refint\Object_Oriented_Programing_Odev_9.Hafta.dll
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Oop_Odev_9.Hafta\obj\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.pdb
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Oop_Odev_9.Hafta\obj\Debug\net6.0\Object_Oriented_Programing_Odev_9.Hafta.genruntimeconfig.cache
+C:\Users\mesut\OneDrive\Masaüstü\Akademi\9. Hafta 07.10.2023 Oop + C#\Oop_Odev_9.Hafta\obj\Debug\net6.0\ref\Object_Oriented_Programing_Odev_9.Hafta.dll
